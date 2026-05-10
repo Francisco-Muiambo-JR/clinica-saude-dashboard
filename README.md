@@ -40,7 +40,7 @@ O sistema usa Make.com para:
 
 ## 👤 Autor
 
-**[teu nome]**  
+**[Francisco Muiambo]**  
 Analista de Dados & Automação | Maputo, Moçambique  
 [LinkedIn](https://www.linkedin.com/in/francisco-muiambo-jr/)
 
