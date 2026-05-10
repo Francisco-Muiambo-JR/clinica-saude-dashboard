@@ -42,7 +42,7 @@ O sistema usa Make.com para:
 
 **[teu nome]**  
 Analista de Dados & Automação | Maputo, Moçambique  
-[LinkedIn](link do teu LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/francisco-muiambo-jr/)
 
 ## 📩 Contacto
 
